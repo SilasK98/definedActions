@@ -5,14 +5,14 @@
           "name": "FrontPage",
           "deprecated": false,
           "generated": false,
-          "show": false,
+          "show": true,
           "children": [
              {
               "id": "1-1",
               "name": "DefinedActionsHelp",
               "deprecated": false,
               "generated": false,
-              "show": false,
+              "show": true,
               "children": [
                 {
                   "id": "1-1-2",
@@ -20,7 +20,7 @@
                   "helpText": "Test mit zwei Variabeln",
                   "deprecated": false,
                   "generated": false,
-                  "show": false,
+                  "show": true,
                   "syntax": "|some defined action|%1|for|%2|",
                   "parameters": {
                     "%1": {
